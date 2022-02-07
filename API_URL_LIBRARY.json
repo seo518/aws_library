@@ -1,0 +1,9 @@
+{
+  "generic": {
+    "listQueries": ["https://www.googleapis.com/doubleclickbidmanager/v1/queries"],
+	"getReportsList":["https://www.googleapis.com/doubleclickbidmanager/v1/queries/{QUERY_ID}/reports"]
+	},
+  "higher":{
+  	"test": ["test" ]
+  }
+}

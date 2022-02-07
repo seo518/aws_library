@@ -1,0 +1,17 @@
+{
+	"headers": {
+		"x-api-key": "apikey",
+		"extraHeader1": "H1",
+		"extraHeader2": "H2"
+	},
+	"parameters":{
+		"parameter1": "p1",
+		"parameter2": "p2",
+		"parameter3": "p3"
+	},
+	"body":{
+		"bodyVar1": "string",
+		"bodyVar1": "string",
+		"bodyVar1": "string"
+	}
+}
